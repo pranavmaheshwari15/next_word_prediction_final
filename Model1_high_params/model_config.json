@@ -1,0 +1,5 @@
+{
+    "seq_len": 20,
+    "vocab_size": 20000,
+    "tensorflow_version": "2.21.0"
+}
