@@ -4,3 +4,7 @@ __pycache__/
 *.py[cod]
 .env
 .ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+publish-two-apps
